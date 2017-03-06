@@ -22,9 +22,9 @@
     <!-- Button to reboot the phone in reboot menu -->
     <string name="reboot_reboot">Перезагрузка</string>
     <!-- Button to reboot the phone into recovery in reboot menu-->
-    <string name="reboot_recovery">Recovery</string>
+    <string name="reboot_recovery">Рекавери</string>
     <!-- Button to soft reboot the device in reboot menu -->
-    <string name="reboot_soft">Мягкая перезагрузка</string>
+    <string name="reboot_soft">Быстрая перезагрузка</string>
     <!-- Reboot Confirmation Dialog. -->
     <string name="reboot_confirm" product="tablet">Ваш планшет будет перезагружен.</string>
     <string name="reboot_confirm" product="default">Ваш телефон будет перезагружен.</string>
