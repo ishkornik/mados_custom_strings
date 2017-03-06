@@ -61,7 +61,7 @@
     <string name="pulse_speed_very_slow">Очень медленный</string>
 
     <!-- Battery light settings -->
-    <string name="battery_light_title">Свет батареи</string>
+    <string name="battery_light_title">Индикатор батареи</string>
     <string name="battery_low_pulse_title">Пульсировать если низкий заряд</string>
     <string name="battery_light_list_title">Цвета</string>
     <string name="battery_light_low_color_title">Низкий заряд батареи</string>
@@ -69,7 +69,7 @@
     <string name="battery_light_full_color_title">Полный заряд</string>
 
     <!-- Lights settings screen, notification light settings -->
-    <string name="notification_light_title">Уведомления светодиодом</string>
+    <string name="notification_light_title">Индикатор уведомлений</string>
     <string name="notification_light_general_title">Общие</string>
     <string name="notification_light_applist_title">Приложения</string>
     <string name="notification_light_phonelist_title">Телефон</string>
@@ -199,22 +199,22 @@
     <!-- BandMode End -->
 
     <!-- BandMode SIM2 Select start -->
-    <string name="BandModeSIM2">Band Mode SIM2</string>
-    <string name="bandmodesim2_GSM">GSM Mode</string>
+    <string name="BandModeSIM2">Режим диапазона SIM2</string>
+    <string name="bandmodesim2_GSM">GSM Режим</string>
     <string name="bandmodesim2_GSM_EGSM900">EGSM900</string>
     <string name="bandmodesim2_GSM_DCS1800">DCS1800</string>
     <string name="bandmodesim2_GSM_PCS1900">PCS1900</string>
     <string name="bandmodesim2_GSM_GSM850">GSM850</string>
-    <string name="bandmodesim2_SET">SET</string>
+    <string name="bandmodesim2_SET">ВЫБРАТЬ</string>
     <string name="BandModeSIMSelect">Выбрать SIM</string>
     <string name="BandModeSIMTwo">Band SET</string>
     <!-- BandMode SIM2 Select end -->
 
     <!-- Band select start -->
-    <string name="BandSelect">Band Mode</string>
-    <string name="BandSel_GSM">GSM Mode</string>
-    <string name="BandSel_UMTS">UMTS Mode</string>
-    <string name="BandSel_SET">SET</string>
+    <string name="BandSelect">Режим диапазона</string>
+    <string name="BandSel_GSM">GSM Режим</string>
+    <string name="BandSel_UMTS">UMTS Режим</string>
+    <string name="BandSel_SET">ВЫБРАТЬ</string>
     <string name="BandSel_GSM_EGSM900">EGSM900</string>
     <string name="BandSel_GSM_DCS1800">DCS1800</string>
     <string name="BandSel_GSM_PCS1900">PCS1900</string>
@@ -229,8 +229,8 @@
     <string name="BandSel_UMTS_BAND_VIII">WCDMA-GSM-900</string>
     <string name="BandSel_UMTS_BAND_IX">WCDMA-1800</string>
     <string name="BandSel_UMTS_BAND_X">WCDMA-1700</string>
-    <string name="BandSel_RESET">Сбросить к настройкам по умолчанию</string>
-    <string name="BandSel_CDMA">CDMA Mode</string>
+    <string name="BandSel_RESET">По умолчанию</string>
+    <string name="BandSel_CDMA">CDMA Режим</string>
     <string name="BandSel_CDMA_BAND_0">Band Class 0(North American Celluar Band)</string>
     <string name="BandSel_CDMA_BAND_1">Band Class 1(North American PCS band)</string>
     <string name="BandSel_CDMA_BAND_2">Band Class 2(TACS band)</string>
@@ -250,12 +250,12 @@
     <!-- Band select end -->
 
     <!-- Dual Talk Band Select start -->
-    <string name="bandmodesim1_GSM">GSM Mode</string>
+    <string name="bandmodesim1_GSM">GSM Режим</string>
     <string name="bandmodesim1_GSM_EGSM900">EGSM900</string>
     <string name="bandmodesim1_GSM_DCS1800">DCS1800</string>
     <string name="bandmodesim1_GSM_PCS1900">PCS1900</string>
     <string name="bandmodesim1_GSM_GSM850">GSM850</string>
-    <string name="bandmodesim1_UMTS">UMTS Mode</string>
+    <string name="bandmodesim1_UMTS">UMTS Режим</string>
     <string name="bandmodesim1_UMTS_BAND_I">WCDMA-IMT-2000</string>
     <string name="bandmodesim1_UMTS_BAND_II">WCDMA-PCS-1900</string>
     <string name="bandmodesim1_UMTS_BAND_III">WCDMA-DCS-1800</string>
@@ -266,29 +266,29 @@
     <string name="bandmodesim1_UMTS_BAND_VIII">WCDMA-GSM-900</string>
     <string name="bandmodesim1_UMTS_BAND_IX">WCDMA-1800</string>
     <string name="bandmodesim1_UMTS_BAND_X">WCDMA-1700</string>
-    <string name="bandmodesim1_LTE">LTE Mode</string>
-    <string name="bandmodesim1_SET">SET</string>
-    <string name="BandStart">Band Mode</string>
-    <string name="BandModeSIM1">Band Mode SIM1</string>
-    <string name="bandmode">Band Mode</string>
+    <string name="bandmodesim1_LTE">LTE Режим</string>
+    <string name="bandmodesim1_SET">ВЫБРАТЬ</string>
+    <string name="BandStart">Режим диапазона</string>
+    <string name="BandModeSIM1">Режим диапазона SIM1</string>
+    <string name="bandmode">Режим диапазона</string>
 
     <!-- TDD Band Select start -->
-    <string name="TDD_BandSel_GSM">GSM Mode</string>
+    <string name="TDD_BandSel_GSM">GSM Режим</string>
     <string name="TDD_GSM_EGSM900">EGSM900</string>
     <string name="TDD_GSM_DCS1800">DCS1800</string>
     <string name="TDD_GSM_PCS1900">PCS1900</string>
     <string name="TDD_GSM_GSM850">GSM850</string>
-    <string name="TDD_BandSel_UMTS">UMTS Mode</string>
+    <string name="TDD_BandSel_UMTS">UMTS Режим</string>
     <string name="TDD_UMTS_BAND_I">TD_SCDMA Band A</string>
     <string name="TDD_UMTS_BAND_II">TD_SCDMA Band B</string>
     <string name="TDD_UMTS_BAND_III">TD_SCDMA Band C</string>
     <string name="TDD_UMTS_BAND_IV">TD_SCDMA Band D</string>
     <string name="TDD_UMTS_BAND_V">TD_SCDMA Band E</string>
     <string name="TDD_UMTS_BAND_VI">TD_SCDMA Band F</string>
-    <string name="TDD_Btn_SET">SET</string>
+    <string name="TDD_Btn_SET">ВЫБРАТЬ</string>
     <!-- TDD Band Select end -->
 
-    <string name="set_success_title">Настройка успена</string>
+    <string name="set_success_title">Настройка успешна</string>
 
     <!-- > App Ops -->
     <!-- [CHAR LIMIT=NONE] App ops settings title, on main settings screen. If clicked, the user is taken to a settings screen for app operations -->
